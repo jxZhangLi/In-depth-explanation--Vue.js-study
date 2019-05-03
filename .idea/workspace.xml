@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/第二章/2.2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="171">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -72,6 +72,11 @@
               <item name="In-depth-explanation--Vue.js-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="In-depth-explanation--Vue.js-study" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="In-depth-explanation--Vue.js-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="In-depth-explanation--Vue.js-study" type="462c0819:PsiDirectoryNode" />
+              <item name="第二章" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -113,7 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556876138840</updated>
-      <workItem from="1556876142303" duration="5110000" />
+      <workItem from="1556876142303" duration="5166000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1556878237408</created>
@@ -136,11 +141,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556900562462</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1556900628985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556900628985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5110000" />
+    <option name="totallyTimeSpent" value="5166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="986" y="0" width="1006" height="1158" extended-state="0" />
@@ -195,8 +207,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/第二章/2.2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="171">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
