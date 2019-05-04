@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+</head>
+<body>
+
+<script type="text/javascript">
+  export class Obesrver {
+  	constructor (value) {
+  		this.value = value
+		  this.dep = new Dep()  //新增dep
+
+		  if (Array.isArray(value)) {
+		  	const augment = hasProto
+			  ?protoAugment
+				  :copyAugment
+			  augment(value, arrayMethods, arrayKeys)
+		  } else {
+		  	this.walk(value)
+		  }
+	  }
+	  ......
+  }
+</script>
+</body>
+</html>
