@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00d6f1ae-3597-4240-9f04-56c59dc334b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/第3章/3..7.html" beforeDir="false" afterPath="$PROJECT_DIR$/第3章/3..7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第4章/4.1.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第4章/4.1.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/书籍笔记整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/书籍笔记整理.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,29 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第3章/3.2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第3章/3.6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/第3章/3..7.html">
+        <entry file="file://$PROJECT_DIR$/第4章/4.1.2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+            <state relative-caret-position="938">
+              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
             </state>
           </provider>
         </entry>
@@ -48,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -71,6 +57,9 @@
         <option value="$PROJECT_DIR$/第3章/3.2.html" />
         <option value="$PROJECT_DIR$/第3章/3.6.html" />
         <option value="$PROJECT_DIR$/第3章/3..7.html" />
+        <option value="$PROJECT_DIR$/第4章/index.js" />
+        <option value="$PROJECT_DIR$/第4章/4.1.1.js" />
+        <option value="$PROJECT_DIR$/第4章/4.1.2.js" />
       </list>
     </option>
   </component>
@@ -96,7 +85,7 @@
             <path>
               <item name="In-depth-explanation--Vue.js-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="In-depth-explanation--Vue.js-study" type="462c0819:PsiDirectoryNode" />
-              <item name="第3章" type="462c0819:PsiDirectoryNode" />
+              <item name="第4章" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556876138840</updated>
-      <workItem from="1556876142303" duration="9536000" />
+      <workItem from="1556876142303" duration="14448000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1556878237408</created>
@@ -190,11 +179,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556965183898</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="12">
+      <created>1556965587095</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556965587095</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9536000" />
+    <option name="totallyTimeSpent" value="14448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="986" y="0" width="1006" height="1158" extended-state="0" />
@@ -269,10 +265,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/第3章/3..7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        <state relative-caret-position="216">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第4章/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第4章/4.1.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第4章/4.1.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="938">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
         </state>
       </provider>
     </entry>
