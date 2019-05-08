@@ -115,6 +115,7 @@
       <workItem from="1557148477068" duration="627000" />
       <workItem from="1557158384695" duration="9000" />
       <workItem from="1557239281571" duration="218000" />
+      <workItem from="1557325580757" duration="1170000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1556878237408</created>
@@ -200,16 +201,23 @@
       <option name="project" value="LOCAL" />
       <updated>1556986319153</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="12">
+      <created>1557334313262</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557334313262</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17753000" />
+    <option name="totallyTimeSpent" value="18923000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="832" y="345" width="1032" height="744" extended-state="0" />
+    <frame x="985" y="0" width="1007" height="1159" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24297188" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24201854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,16 +245,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/书籍笔记整理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vue.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -307,6 +305,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/书籍笔记整理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
